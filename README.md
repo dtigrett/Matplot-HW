@@ -1,1 +1,11 @@
 # Matplot-HW
+
+Matplot Homework Analysis
+
+1.  Capomulin and Ramicane drug regimens had the greatest impact on reducing the size of the tumors for the mice in the study. 
+
+2   Mouse ID s185 showed a significant reduction in tumor size at timepoint 0, tumor volume=45.0 ending at timepoint 20, tumor volume=36.86
+
+3.  There is a positive correlation between  average tumor volume and weight for the mice in the study.
+
+4.  There were fewer mice in the sample sizes for Ceftamin and Infubinol (178) as compared to the sample size of Capomulin (230) and Ramicane (228).  
