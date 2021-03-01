@@ -1,6 +1,6 @@
-# Matplot-HW
+# Matplot Analysis
 
-Matplot Homework Analysis
+Matplot Analysis
 
 1.  Capomulin and Ramicane drug regimens had the greatest impact on reducing the size of the tumors for the mice in the study. 
 
